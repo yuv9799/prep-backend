@@ -18,4 +18,4 @@ services:
       - key: JWT_REFRESH_SECRET
         generateValue: true
       - key: EMAIL_LOG_ONLY
-        value: true
+        value: "true"
